@@ -1,0 +1,8 @@
+co/com/linio/test/runners/RegistroUsuarioRunner.java
+ co.com.linio.test.runners.RegistroUsuarioRunner
+co/com/linio/test/runners/RealizarCompraRunner.java
+ co.com.linio.test.runners.RealizarCompraRunner
+co/com/linio/test/stepdefinitions/RegistroUsuarioStepDefinition.java
+ co.com.linio.test.stepdefinitions.RegistroUsuarioStepDefinition
+co/com/linio/test/stepdefinitions/RealizarCompraStepDefinition.java
+ co.com.linio.test.stepdefinitions.RealizarCompraStepDefinition
